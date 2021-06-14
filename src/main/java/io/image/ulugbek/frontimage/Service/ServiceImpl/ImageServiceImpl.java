@@ -1,7 +1,6 @@
 package io.image.ulugbek.frontimage.Service.ServiceImpl;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.image.ulugbek.frontimage.Model.Entity.Objects;
 import io.image.ulugbek.frontimage.Service.ImageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
